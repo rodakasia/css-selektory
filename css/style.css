@@ -1,0 +1,9 @@
+h1, h3 {
+    background-color: limegreen;
+}
+p {
+    color: rgb(201, 28, 163);
+}
+h1+h3 {
+    color:blueviolet;
+}
